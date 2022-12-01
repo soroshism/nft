@@ -1,7 +1,7 @@
 @use './../../scss/' as *;
 
 .page-title__body {
-    background: rgb(76, 34, 225);
+    background: $main-color;
     position: relative;
     padding: 52px 94px 61px;
     border-radius: 20px;

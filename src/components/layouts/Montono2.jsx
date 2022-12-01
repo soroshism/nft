@@ -10,7 +10,7 @@ const Montono2 = (props) => {
             <div className="container-fluid">
                 <div className="row">
                     <div className="col-md-12">
-                        <div className="block-text center">
+                        <div className="block-text center overflow-hidden">
                             <h1 className="heading-bg" data-aos="fade-in" data-aos-duration="1000"><span>Collections</span></h1>
                             <h5 className="sub-title mb-10" data-aos="fade-up" data-aos-duration="1000">NFT Portfolio Collections</h5>
                             <h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">Checkout Our NFT<br /> Collections</h3>

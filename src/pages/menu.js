@@ -27,13 +27,14 @@ const menus = [
         ]
     },
     {
-        id: 2,
-        name: 'About',
-        links: '/about'
-    },{
         id: 3,
         name: 'Collections',
         links: '/collections'
+    },
+    {
+        id: 2,
+        name: 'About',
+        links: '/about'
     },
     {
         id: 4,
