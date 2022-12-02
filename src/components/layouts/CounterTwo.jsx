@@ -11,21 +11,21 @@ const CounterTwo = () => {
                     <div className="col-12">
                         <div className="counter__body" data-aos="fade-down" data-aos-duration="1000">
                             <div className="counter">
-                                <img src={icon.users} alt="Monteno" />
+                                <img src={icon.users} alt="pinkhounds" />
                                 <div className="number-counter">
                                     <CountUp end={100} />K
                                 </div>
                                 <h5 className="title">Registered User</h5>    
                             </div>
                             <div className="counter">
-                                <img src={icon.assets} alt="Monteno" />
+                                <img src={icon.assets} alt="pinkhounds" />
                                 <div className="number-counter">
                                 <CountUp end={5} />M
                                 </div>
                                 <h5 className="title">Total Assets</h5>    
                             </div>
                             <div className="counter">
-                                <img src={icon.trading} alt="Monteno" />
+                                <img src={icon.trading} alt="pinkhounds" />
                                 <div className="number-counter">
                                 <CountUp end={10} />B
                                 </div>

@@ -34,7 +34,7 @@ const Partners2 = (props) => {
                                 data.map((data,index) => (
                                     <SwiperSlide key={index}>
                                         <div className="box-partner">
-                                            <Link to="#"><img src={data.img} alt="Monteno" /></Link>
+                                            <Link to="#"><img src={data.img} alt="pinkhounds" /></Link>
                                         </div>
                                     </SwiperSlide>
                                 ))

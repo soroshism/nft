@@ -12,7 +12,7 @@ const BlogL = (props) => {
                     <div key={index} className="blog-box">
                         <div className="blog-img">
                             <Link to="/blog-single">
-                                <img src={data.img} alt="Monteno" />
+                                <img src={data.img} alt="pinkhounds" />
                             </Link>
                         </div>
                         <div className="blog-content">

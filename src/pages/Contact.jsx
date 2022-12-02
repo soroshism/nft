@@ -16,7 +16,7 @@ const Contact = () => {
                                 <h2 className="sub-title mb-20">Contact</h2>
                                 <p className="fs-24 mb-33" >Sed ut perspiciatis unde omnis iste natus <br /> error sit voluptatem accusantium </p>
                             </div>
-                            <img className="s2" src={img} alt="Monteno" />
+                            <img className="s2" src={img} alt="pinkhounds" />
                         </div>
                     </div>
                 </div>

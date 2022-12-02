@@ -24,19 +24,19 @@ const Testimonial = (props) => {
                                 <SwiperSlide key={index}>
                                     <div className="testimonials-box">
                                         <div className="image">
-                                            <img src={data.img} alt="Monteno" />
+                                            <img src={data.img} alt="pinkhounds" />
                                         </div>
 
                                         <div className="block-text ">
                                             <h5 className="sub-title mb-10" >Testimonial</h5>
                                             <h3 className="title">What People Say </h3>
                                             <div className="message">
-                                                <img src={icon.leftquote} alt="Monteno" />
+                                                <img src={icon.leftquote} alt="pinkhounds" />
                                                 <div className="message-content" data-aos="fade-up" data-aos-duration="1000">
                                                     <p className="text">{data.text}</p>
 
                                                     <div className="info">
-                                                        <img src={data.avt} alt="Monteno" />
+                                                        <img src={data.avt} alt="pinkhounds" />
                                                         <h6>{data.name}</h6>
                                                         <p className="fs-16">{data.postion}</p>
                                                     </div>

@@ -25,7 +25,7 @@ const BlogGrid = () => {
                                 <h2 className="sub-title mb-20">Blog Grid</h2>
                                 <p className="fs-24 mb-33" >Sed ut perspiciatis unde omnis iste natus <br /> error sit voluptatem accusantium </p>
                             </div>
-                            <img className="s2" src={img} alt="Monteno" />
+                            <img className="s2" src={img} alt="pinkhounds" />
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ const BlogGrid = () => {
                                     <div className="blog-box">
                                         <div className="blog-img">
                                             <Link to="/blog-single">
-                                                <img src={data.img} alt="Monteno" />
+                                                <img src={data.img} alt="pinkhounds" />
                                             </Link>
                                         </div>
                                         <div className="blog-content">

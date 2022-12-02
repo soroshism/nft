@@ -46,7 +46,7 @@ const Collections = () => {
                                 <h2 className="sub-title mb-20">NFT</h2>
                                 <p className="fs-24 mb-33" >Sed ut perspiciatis unde omnis iste natus <br /> error sit voluptatem accusantium </p>
                             </div>
-                            <img className="s2" src={img} alt="Monteno" />
+                            <img className="s2" src={img} alt="pinkhounds" />
                         </div>
                     </div>
                 </div>
@@ -58,8 +58,8 @@ const Collections = () => {
                         <div className="col-12">
                             <div className="block-text center">
                                 <h1 className="heading-bg" data-aos="fade-in" data-aos-duration="1000"><span>About</span></h1>
-                                <h5 className="sub-title mb-10" data-aos="fade-up" data-aos-duration="1000">About Monteno</h5>
-                                <h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">Know More About <br /> Monteno</h3>
+                                <h5 className="sub-title mb-10" data-aos="fade-up" data-aos-duration="1000">About pinkhounds</h5>
+                                <h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">Know More About <br /> pinkhounds</h3>
                             </div>
                         </div>
                     </div>
@@ -82,7 +82,7 @@ const Collections = () => {
                                 {
                                     data.map((data,index) => (
                                         <SwiperSlide key={index}>
-                                            <div className="item bg-2"><img src={data.img} alt="Monteno" /></div>
+                                            <div className="item bg-2"><img src={data.img} alt="pinkhounds" /></div>
                                         </SwiperSlide>
                                     ))
                                 }
@@ -99,7 +99,7 @@ const Collections = () => {
                                 {
                                     data.map((data,index) => (
                                         <SwiperSlide key={index}>
-                                            <div className="item bg-2"><img src={data.img} alt="Monteno" /></div>
+                                            <div className="item bg-2"><img src={data.img} alt="pinkhounds" /></div>
                                         </SwiperSlide>
                                     ))
                                 }
@@ -109,7 +109,7 @@ const Collections = () => {
                         </div>
                         <div className="col-xl-5 col-md-12">
                             <div className="block-text">
-                                <h3 className="fs-42 mb-31">About Monteno ii</h3>
+                                <h3 className="fs-42 mb-31">About pinkhounds ii</h3>
                                 <p className="fs-18">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in culpa </p>
                                 <h3 className="fs-30 mt-37">Features</h3>
                                 <ul className="nft">

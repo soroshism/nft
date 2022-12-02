@@ -18,7 +18,7 @@ const Team = () => {
                                 <h2 className="sub-title mb-20">Team</h2>
                                 <p className="fs-24 mb-33" >Sed ut perspiciatis unde omnis iste natus <br /> error sit voluptatem accusantium </p>
                             </div>
-                            <img className="s2" src={img} alt="Monteno" />
+                            <img className="s2" src={img} alt="pinkhounds" />
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ const Team = () => {
                                 <div key={index} className="col-xl-3 col-md-6">
                                     <div className="team-box">
                                         <div className="img-team">
-                                            <img src={data.img} alt="Monteno" />
+                                            <img src={data.img} alt="pinkhounds" />
                                             <div className="social">
                                                 <p>
                                                     <Link to="#"><i className="fab fa-facebook-square"></i></Link>

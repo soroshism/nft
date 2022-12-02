@@ -18,6 +18,7 @@ const item = {
     item27 : require('../images/items/item-27.png'),
     item28 : require('../images/items/item-28.png'),
     item29 : require('../images/items/item-29.png'),
+    item30 : require('../images/items/item-30.png'),
     technology : require('../images/items/technology.png'),
 }
 

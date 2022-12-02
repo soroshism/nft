@@ -13,7 +13,7 @@ const Speciality2 = (props) => {
                         data.map((data,index) => (
                             <div key={index} className="col-xl-3 col-md-6 col-12">
                                 <div className={`box-item bg-2 ${data.class2}`} data-aos="fade-up" data-aos-duration="800">
-                                        <img src={data.img} alt="Monteno" />
+                                        <img src={data.img} alt="pinkhounds" />
                                         <Link to="/collections" className="h5">{data.title}</Link>
                                         <p>{data.desc}</p>
                                     </div>

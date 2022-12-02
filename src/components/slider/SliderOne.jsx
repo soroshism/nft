@@ -7,7 +7,7 @@ import item from '../../assets/fake-data/item';
 const SliderOne = () => {
 
     const [datatext] = useState({
-        subtitle: 'We are Monteno NFT',
+        subtitle: 'We are pinkhounds NFT',
         title: 'Collect Next Generation NFTs Today',
         desc: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium'
     })
@@ -39,10 +39,10 @@ const SliderOne = () => {
                                 }}
                                 speed= {2000}
                             >
-                                <SwiperSlide><div className="item bg-1"><img src={item.item1} alt="Monteno" /></div></SwiperSlide>
-                                <SwiperSlide><div className="item bg-2"><img src={item.item2} alt="Monteno" /></div></SwiperSlide>
-                                <SwiperSlide><div className="item bg-1"><img src={item.item1} alt="Monteno" /></div></SwiperSlide>
-                                <SwiperSlide><div className="item bg-2"><img src={item.item2} alt="Monteno" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-1"><img src={item.item1} alt="pinkhounds" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-2"><img src={item.item2} alt="pinkhounds" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-1"><img src={item.item1} alt="pinkhounds" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-2"><img src={item.item2} alt="pinkhounds" /></div></SwiperSlide>
 
                             </Swiper>
                             <Swiper
@@ -59,11 +59,11 @@ const SliderOne = () => {
                                 }}
                                 speed= {2000}
                             >
-                                <SwiperSlide><div className="item bg-2"><img src={item.item3} alt="Monteno" /></div></SwiperSlide>
-                                <SwiperSlide><div className="item bg-1"><img src={item.item4} alt="Monteno" /></div></SwiperSlide>
-                                <SwiperSlide><div className="item bg-2"><img src={item.item5} alt="Monteno" /></div></SwiperSlide>
-                                <SwiperSlide><div className="item bg-1"><img src={item.item3} alt="Monteno" /></div></SwiperSlide>
-                                <SwiperSlide><div className="item bg-2"><img src={item.item4} alt="Monteno" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-2"><img src={item.item3} alt="pinkhounds" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-1"><img src={item.item4} alt="pinkhounds" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-2"><img src={item.item5} alt="pinkhounds" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-1"><img src={item.item3} alt="pinkhounds" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-2"><img src={item.item4} alt="pinkhounds" /></div></SwiperSlide>
 
                             </Swiper>
                             <Swiper
@@ -79,11 +79,11 @@ const SliderOne = () => {
                                 }}
                                 speed= {2000}
                             >
-                                <SwiperSlide><div className="item bg-2"><img src={item.item6} alt="Monteno" /></div></SwiperSlide>
-                                <SwiperSlide><div className="item bg-1"><img src={item.item7} alt="Monteno" /></div></SwiperSlide>
-                                <SwiperSlide><div className="item bg-2"><img src={item.item4} alt="Monteno" /></div></SwiperSlide>
-                                <SwiperSlide><div className="item bg-1"><img src={item.item6} alt="Monteno" /></div></SwiperSlide>
-                                <SwiperSlide><div className="item bg-2"><img src={item.item7} alt="Monteno" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-2"><img src={item.item6} alt="pinkhounds" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-1"><img src={item.item7} alt="pinkhounds" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-2"><img src={item.item4} alt="pinkhounds" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-1"><img src={item.item6} alt="pinkhounds" /></div></SwiperSlide>
+                                <SwiperSlide><div className="item bg-2"><img src={item.item7} alt="pinkhounds" /></div></SwiperSlide>
 
                             </Swiper>
                         </div>

@@ -13,7 +13,7 @@ const Infomation = () => {
         {
             icon: icon.box,
             title: 'Flatform :',
-            info: 'Monteno'
+            info: 'pinkhounds'
         },
         {
             icon: icon.box,
@@ -54,7 +54,7 @@ const Infomation = () => {
                             {
                                 data.map((data,index) => (
                                     <li key={index}>
-                                        <h5 className="fs-18"><img src={data.icon} alt="Monteno" /> {data.title}</h5>
+                                        <h5 className="fs-18"><img src={data.icon} alt="pinkhounds" /> {data.title}</h5>
                                         <p className="fs-16">{data.info}</p>
                                     </li>
                                 ))

@@ -46,10 +46,10 @@ const Testimonials2 = (props) => {
                                 data.map((data,index) => (
                                     <SwiperSlide key={index}>
                                         <div className="box-testimonial">
-                                        <img className="quote" src={icon.leftquote2} alt="Monteno" />
+                                        <img className="quote" src={icon.leftquote2} alt="pinkhounds" />
                                         <p className="text">{data.text}</p>
                                         <div className="info">
-                                            <img src={data.avt} alt="Monteno" />
+                                            <img src={data.avt} alt="pinkhounds" />
                                             <div>
                                                 <h6>{data.name}</h6>
                                                 <p className="fs-16">{data.postion}</p>

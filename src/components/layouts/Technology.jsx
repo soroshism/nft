@@ -14,7 +14,7 @@ const data = props.data;
                 <div className="col-12">
                     <div className="block-text center">
                         <h5 className="sub-title mb-10" data-aos="fade-up" data-aos-duration="1000">Technology</h5>
-                        <h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">Monteno unique Technology</h3>
+                        <h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">pinkhounds unique Technology</h3>
                     </div>
                 </div>
             </div>
@@ -26,7 +26,7 @@ const data = props.data;
                                 <div className="col-md-6" key={index}>
                                     <div className="icon-box bg-2" data-aos="fade-up">
                                         <div className="icon">
-                                            <img src={data.icon} alt="Monteno" />
+                                            <img src={data.icon} alt="pinkhounds" />
                                         </div>
                                         <div className="content">
                                             <Link to="#" className="h5">
@@ -43,7 +43,7 @@ const data = props.data;
                 </div>
                 <div className="col-xl-6 col-md-12">
                     <div className="group-image">
-                        <img src={item.technology} alt="Monteno" />
+                        <img src={item.technology} alt="pinkhounds" />
                     </div>
                 </div>
             </div>

@@ -43,7 +43,7 @@ const Header = () => {
                             <div className="header__logo">
                                 <Link to="/">
                                     <img id="site-logo" src={logo}
-                                    alt="Monteno"  />
+                                    alt="pinkhounds"  />
                                 </Link>
                             </div>
 

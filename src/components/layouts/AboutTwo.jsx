@@ -21,11 +21,11 @@ const AboutTwo = () => {
                 <div className="col-xl-7 col-md-12">
                     <div className="group-image">
                         <div className="left">
-                            <div className="item bg-1 big"><img src={item.item27} alt="Monteno" /></div>
+                            <div className="item bg-1 big"><img src={item.item27} alt="pinkhounds" /></div>
                         </div>
                         <div className="right">
-                            <div className="item bg-2 small"><img src={item.item28} alt="Monteno" /></div>
-                            <div className="item bg-3"><img src={item.item29} alt="Monteno" /></div>
+                            <div className="item bg-2 small"><img src={item.item28} alt="pinkhounds" /></div>
+                            <div className="item bg-3"><img src={item.item29} alt="pinkhounds" /></div>
                         </div>
                     </div>
                 </div>

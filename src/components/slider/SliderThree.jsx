@@ -5,7 +5,7 @@ import Countdown from '../layouts/Countdown';
 const SliderThree = () => {
 
     const [datatext] = useState({
-        subtitle: 'We are Monteno NFT',
+        subtitle: 'We are pinkhounds NFT',
         title: 'Collect Next Generation NFTs Today',
         desc: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium'
     })

@@ -36,7 +36,7 @@ const FooterStyle2 = () => {
                             <div className="col-xl-3 col-md-6 col-12">
                                 <div className="info">
                                 <Link to="/">
-                                    <img src={logo} alt="Monteno" />
+                                    <img src={logo} alt="pinkhounds" />
                                 </Link>
                                     <p className="desc fs-18">
                                         Duis aute irure dolor in reprehen derit in voluptate velit esse cillum dolore eu fugiat pariatur.  
@@ -86,7 +86,7 @@ const FooterStyle2 = () => {
                             </div>
                         </div>
                         <div className="footer_bottom">
-                            <p className="fs-16">Copyright © 2022, Monteno - NFT Portfolio ReactJS Template. Designed by <Link to="https://themeforest.net/user/themesflat/portfolio">Themesflat</Link></p>
+                            <p className="fs-16">Copyright © 2022, pinkhounds - NFT Portfolio. Designed by <Link to="">Hamidea</Link></p>
                             <ul>
                                 <li><Link to="#">Terms & Condition</Link></li>
                                 <li><Link to="#">Privacy Policy</Link></li>

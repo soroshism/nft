@@ -23,7 +23,7 @@ const Team2 = (props) => {
                             <div key={index} className="col-xl-3 col-md-6">
                                 <div className="team-box-2" data-aos="fade-up" data-aos-duration="800">
                                     <div className="img-team">
-                                        <img src={data.img} alt="Monteno" />
+                                        <img src={data.img} alt="pinkhounds" />
                                         <div className="social">
                                             <p>
                                                 <Link to="#"><i className="fab fa-facebook-f"></i></Link>
@@ -49,7 +49,7 @@ const Team2 = (props) => {
                             <div key={index} className="col-xl-4 col-md-6">
                                 <div className="team-box-2" data-aos="fade-up" data-aos-duration="1000">
                                     <div className="img-team">
-                                        <img src={data.img} alt="Monteno" />
+                                        <img src={data.img} alt="pinkhounds" />
                                         <div className="social">
                                             <p>
                                                 <Link to="#"><i className="fab fa-facebook-f"></i></Link>

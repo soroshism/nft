@@ -20,7 +20,7 @@ const FAQ = () => {
                                 <h2 className="sub-title mb-20">FAQ</h2>
                                 <p className="fs-24 mb-33" >Sed ut perspiciatis unde omnis iste natus <br /> error sit voluptatem accusantium </p>
                             </div>
-                            <img src={img} alt="Monteno" />
+                            <img src={img} alt="pinkhounds" />
                         </div>
                     </div>
                 </div>

@@ -13,7 +13,7 @@ const Montono = (props) => {
                         data.slice(0,8).map((data,index) => (
                             <div key={index} className="col-xl-3 col-md-6">
                                 <div className="image-box" data-aos="fade-up" data-aos-duration="1000">
-                                    <img src={data.img} alt="Monteno" />
+                                    <img src={data.img} alt="pinkhounds" />
                                     <div className="image-box__title">
                                         <Link to="/collections" className="h6">{data.title}</Link>
                                     </div>

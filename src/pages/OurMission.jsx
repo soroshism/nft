@@ -23,7 +23,7 @@ const OurMission = () => {
                                 <h2 className="sub-title mb-20">Visions & Mission</h2>
                                 <p className="fs-24 mb-33" >Sed ut perspiciatis unde omnis iste natus <br /> error sit voluptatem accusantium </p>
                             </div>
-                            <img className="s2" src={img} alt="Monteno" />
+                            <img className="s2" src={img} alt="pinkhounds" />
                         </div>
                     </div>
                 </div>
@@ -36,7 +36,7 @@ const OurMission = () => {
                             <div className="group-image" data-aos="flip-left"
                             data-aos-easing="ease-out-cubic"
                             data-aos-duration="2000">
-                                <img src={mission} alt="Monteno" />
+                                <img src={mission} alt="pinkhounds" />
                             </div>
                         </div>
                         <div className="col-xl-5 col-md-12">
@@ -71,7 +71,7 @@ const OurMission = () => {
                             <div className="group-image" data-aos="flip-right"
                             data-aos-easing="ease-out-cubic"
                             data-aos-duration="2000">
-                                <img src={vission} alt="Monteno" />
+                                <img src={vission} alt="pinkhounds" />
                             </div>
                         </div>
                     </div>

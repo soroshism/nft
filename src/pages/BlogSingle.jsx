@@ -57,7 +57,7 @@ const BlogSingle = () => {
                     <div className="row">
                         <div className="col-12">
                             <div className="blog-img">
-                                <img src={img} alt="Monteno" />
+                                <img src={img} alt="pinkhounds" />
                             </div>
                         </div>
                     </div>
@@ -107,7 +107,7 @@ const BlogSingle = () => {
                                 </div>
                                 <div className="blog-content related-post">
                                     <div className="prev">
-                                        <img src={img2} alt="Monteno" />
+                                        <img src={img2} alt="pinkhounds" />
                                         <div className="action-right">
                                             <Link to="#"><i className="fa fa-angle-double-left"></i>Previous Post</Link>
                                             <div className="divider"></div>
@@ -115,7 +115,7 @@ const BlogSingle = () => {
                                         </div>
                                     </div>
                                     <div className="next">
-                                        <img src={img3} alt="Monteno" />
+                                        <img src={img3} alt="pinkhounds" />
                                         <div className="action-right">
                                             <Link to="#">Next Post<i className="fa fa-angle-double-right"></i></Link>
                                             <div className="divider"></div>
@@ -124,7 +124,7 @@ const BlogSingle = () => {
                                     </div>
                                 </div>
                                 <div className="blog-content post">
-                                    <img src={avt} alt="Monteno" />
+                                    <img src={avt} alt="pinkhounds" />
                                     <div className="post-right">
                                         <div className="info">
                                             <Link to='#' className="h5">Jewel Khan</Link>
@@ -144,7 +144,7 @@ const BlogSingle = () => {
                                     {
                                         data.map((data,index) => (
                                             <div key={index} className={`comment-box ${data.cmt}`}>
-                                                <img src={data.img} alt="Monteno" />
+                                                <img src={data.img} alt="pinkhounds" />
                                                 <div className="comment-right">
                                                     <div className="top">
                                                         <div className="info">

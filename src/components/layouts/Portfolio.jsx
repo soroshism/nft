@@ -13,7 +13,7 @@ const Portfolio = (props) => {
                     <div className="block-text center">
                         <h1 className="heading-bg" data-aos="fade-in" data-aos-duration="1000"><span>Join</span></h1>
                         <h5 className="sub-title mb-10" data-aos="fade-up" data-aos-duration="1000">Join NFT Portfolio</h5>
-                        <h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">Become a Monteno <br /> Player Now</h3>
+                        <h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">Become a pinkhounds <br /> Player Now</h3>
                     </div>
                 </div>
             </div>
@@ -23,7 +23,7 @@ const Portfolio = (props) => {
                         <div key={index} className="col-md-6">
                             <div className="icon-box bg-2" data-aos="fade-up">
                                 <div className="icon">
-                                    <img src={data.img} alt="Monteno" />
+                                    <img src={data.img} alt="pinkhounds" />
                                 </div>
                                 <div className="content">
                                     <p className="fs-16 color-main">{data.step}</p>

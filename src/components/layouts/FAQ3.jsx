@@ -33,7 +33,7 @@ const FAQ3 = (props) => {
                     </div>
                     <div className="col-xl-6 col-md-12">
                         <div className="group-image">
-                            <img src={img} alt="Monteno" />
+                            <img src={img} alt="pinkhounds" />
                         </div>
                     </div>
                 </div>

@@ -5,7 +5,7 @@ import item from '../../assets/fake-data/item';
 const SliderTwo = () => {
 
     const [datatext] = useState({
-        subtitle: 'We are Monteno NFT',
+        subtitle: 'We are pinkhounds NFT',
         title: 'Collect Next Generation NFTs Today',
         desc: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium'
     })
@@ -22,13 +22,13 @@ const SliderTwo = () => {
                             <Link to="/about" className="btn-action style-2" data-aos="fade-up" data-aos-duration="1200" >Get Connected</Link>
 
                             <div className="shape">
-                                <div className="item bg-1"><img src={item.item11} alt="Monteno" /></div>
-                                <div className="item bg-2"><img src={item.item12} alt="Monteno" /></div>
-                                <div className="item bg-1"><img src={item.item13} alt="Monteno" /></div>
-                                <div className="item bg-1"><img src={item.item14} alt="Monteno" /></div>
-                                <div className="item bg-2"><img src={item.item6} alt="Monteno" /></div>
-                                <div className="item bg-2"><img src={item.item15} alt="Monteno" /></div>
-                                <div className="item bg-1"><img src={item.item16} alt="Monteno" /></div>
+                                <div className="item bg-1"><img src={item.item11} alt="pinkhounds" /></div>
+                                <div className="item bg-2"><img src={item.item12} alt="pinkhounds" /></div>
+                                <div className="item bg-1"><img src={item.item13} alt="pinkhounds" /></div>
+                                <div className="item bg-1"><img src={item.item14} alt="pinkhounds" /></div>
+                                <div className="item bg-2"><img src={item.item6} alt="pinkhounds" /></div>
+                                <div className="item bg-2"><img src={item.item15} alt="pinkhounds" /></div>
+                                <div className="item bg-1"><img src={item.item16} alt="pinkhounds" /></div>
                             </div>
                         </div>
                     </div>

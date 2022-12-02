@@ -35,7 +35,7 @@ const Portfolio2 = (props) => {
                 >
                     {
                         data.map((data,index) => (
-                            <SwiperSlide key={index}><div className="item bg-2"><img src={data.img} alt="Monteno" /></div></SwiperSlide>
+                            <SwiperSlide key={index}><div className="item bg-2"><img src={data.img} alt="pinkhounds" /></div></SwiperSlide>
                         ))
                     }
 
@@ -66,7 +66,7 @@ const Portfolio2 = (props) => {
 
                     {
                         data.map((data,index) => (
-                            <SwiperSlide key={index}><div className="item bg-2"><img src={data.img} alt="Monteno" /></div></SwiperSlide>
+                            <SwiperSlide key={index}><div className="item bg-2"><img src={data.img} alt="pinkhounds" /></div></SwiperSlide>
                         ))
                     }
 

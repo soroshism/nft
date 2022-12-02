@@ -50,7 +50,7 @@ const Blog = (props) => {
                                         <div className="blog__box" data-aos="fade-up" data-aos-duration="800">
                                             <div className="blog-img">
                                                 <Link to="/blog-single">
-                                                    <img src={data.img} alt="Monteno" />
+                                                    <img src={data.img} alt="pinkhounds" />
                                                 </Link>
                                             </div>
                                             <div className="blog-content">

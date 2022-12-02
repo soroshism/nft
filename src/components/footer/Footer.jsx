@@ -36,7 +36,7 @@ const Footer = () => {
                 <div className="row">
                     <div className="footer__body">
                       <Link to="/">
-                        <img src={logo} alt="Monteno" data-aos="fade-down" />
+                        <img src={logo} alt="pinkhounds" data-aos="fade-down" />
                       </Link>
                         
                         <p className="desc fs-18" data-aos="fade-up">
@@ -50,7 +50,7 @@ const Footer = () => {
                         </ul>
                     </div>
                     <div className="footer_bottom">
-                        <p className="fs-16">Copyright © 2022, Monteno - NFT Portfolio ReactJS Template. Designed by <Link to="https://themeforest.net/user/themesflat/portfolio">Themesflat</Link></p>
+                        <p className="fs-16">Copyright © 2022, pinkhounds - NFT Portfolio. Designed by <Link to="">Hamidea</Link></p>
                         <ul>
                             <li><Link to="#">Terms & Condition</Link></li>
                             <li><Link to="#">Privacy Policy</Link></li>

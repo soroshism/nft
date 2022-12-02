@@ -98,7 +98,7 @@ const Sidebar = () => {
                         data.slice(7,10).map((data,index) => (
                             <li key={index}>
                                 <Link to="/blog-single">
-                                    <img src={data.img} alt="Monteno" />
+                                    <img src={data.img} alt="pinkhounds" />
                                 </Link>
                                 <div className="info">
                                     <Link to="/blog-single" className="fs-18">{data.title}</Link>
