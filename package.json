@@ -1,5 +1,6 @@
 {
   "name": "montenoreactjs",
+  "homepage": "http://pinkhounds.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
